@@ -2,6 +2,7 @@
 
 # Welcome to c-534.io
 To learn more about how **c-534.io** platform works, visit our [Wiki](https://github.com/c-534-automat/documentation/wiki) or choose a topic:
+
 **[Home](https://github.com/c-534-automat/documentation/wiki)**  
 * [Quick-Start](https://github.com/c-534-automat/documentation/wiki/Quick-Start)
 * [How to connect two systems?](https://github.com/c-534-automat/documentation/wiki/How-to-connect-two-systems%3F)
