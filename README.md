@@ -15,4 +15,4 @@ To learn more about how **c-534.io** platform works, visit our [Wiki](https://gi
 * [CRM & ERP API Integration example on Pipedrive & MYOB EXO](https://github.com/c-534-automat/templates/wiki/CRM-&-ERP-API-Integration---example-on-Pipedrive-&-MYOB-EXO)
 * [Salesforce and Pipedrive integration](https://github.com/c-534-automat/templates/wiki/Salesforce-and-Pipedrive-integration)
 * [ServiceNow and LeanKit integration](https://github.com/c-534-automat/templates/wiki/ServiceNow-and-LeanKit-integration)
-* [Pipedrive and SMSAPI integration](https://github.com/c-534-automat/templates/wiki/Pipedrive-and-SMSAPI-integration)
+* [SMS API and Pipedrive integration](https://github.com/c-534-automat/templates/wiki/SMS-API-&-Pipedrive-integration)
